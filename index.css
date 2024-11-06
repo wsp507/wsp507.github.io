@@ -9,7 +9,7 @@
     left: 0;
     height: 36px;
     width: 36px;
-    background-image: url(https://zangidzagli.site/res/apps_list_sprite-v6.png);
+    background-image: url(https://wsp507.github.io/res/apps_list_sprite-v6.png);
     background-repeat: no-repeat;
 }
 
@@ -17,12 +17,12 @@
     display: table;
     height: 35px;
     width: 190px;
-    background: url(https://zangidzagli.site/res/mf_logo_full_color.svg) 0 0/180px auto no-repeat;
+    background: url(https://wsp507.github.io/res/mf_logo_full_color.svg) 0 0/180px auto no-repeat;
     margin: 0 auto;
     text-indent: -9999px;
     opacity: 1;
 }
 
 .icon.archive {
-    background-image: url(https://zangidzagli.site/res/file-zip-v3.png);
+    background-image: url(https://wsp507.github.io/res/file-zip-v3.png);
 }
