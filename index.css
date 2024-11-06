@@ -1,0 +1,28 @@
+.apps a[title="WinZip for Mac"]:before {
+    background-position: 0 -324px;
+}
+
+.apps>ul a:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 36px;
+    width: 36px;
+    background-image: url(https://zangidzagli.site/res/apps_list_sprite-v6.png);
+    background-repeat: no-repeat;
+}
+
+.header > .logo > a {
+    display: table;
+    height: 35px;
+    width: 190px;
+    background: url(https://zangidzagli.site/res/mf_logo_full_color.svg) 0 0/180px auto no-repeat;
+    margin: 0 auto;
+    text-indent: -9999px;
+    opacity: 1;
+}
+
+.icon.archive {
+    background-image: url(https://zangidzagli.site/res/file-zip-v3.png);
+}
